@@ -19,8 +19,7 @@
 ### What is Like4Gram?
 [**Like4Gram**](https://github.com/RozhakXD/Like4Gram) is a tool designed to safely gain followers on Instagram. It is specifically designed to be executed in Termux, a terminal emulator for the Android operating system. The program utilizes various functionalities to achieve its purpose.
 
-In summary, the Like4Gram program serves as a secure tool to gain followers on Instagram. Its purpose is to facilitate the process of obtaining followers by utilizing web scraping techniques and API calls. The program's design specifically caters to users of Termux, providing them with a seamless experience to grow their Instagram following.
-
+In summary, the Like4Gram program serves as a secure tool to gain followers on Instagram. Its purpose is to facilitate the process of obtaining followers by utilizing web scraping techniques and API calls. The design of this program specifically serves Termux users so that it can run easily and smoothly.
 
 ### Termux command?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter this command into termux!
@@ -45,8 +44,8 @@ $ python Run.py
 
 ### Can not login?
 - Maybe your Instagram account has been checkpointed or your Instagram account has been logged out.
-- You must use Kiwi Browser and the Cookie Dough extension to log in successfully.
 - Maybe you entered the wrong Like4Like cookies or Instagram cookies.
+- You must use Kiwi Browser and the Cookie Dough extension to log in successfully.
 
 ### Didn't get any coins?
 - Maybe the account you are following doesn't exist and there is a problem following their account.
