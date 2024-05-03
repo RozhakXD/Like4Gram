@@ -53,7 +53,7 @@ $ python Run.py
 - You were detected using automation so this caused you not to get coins.
 
 ### Warning?!
-This tool is used to gain followers by following fellow users. I hope you don't use the main account because it will increase your following. You must use a new account to complete missions to avoid account blocking!
+This tool is used to gain followers by following fellow users. You must use a new account to complete missions to avoid account blocking!
 
 ##
 ```python
