@@ -33,7 +33,7 @@ $ python Run.py
 ```
 
 ```
-$ cd "$HOME/Like4Gram" && git pul
+$ cd "$HOME/Like4Gram" && git pull
 $ python Run.py
 ```
 
