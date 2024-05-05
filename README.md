@@ -17,9 +17,7 @@
 ##
 
 ### What is Like4Gram?
-[**Like4Gram**](https://github.com/RozhakXD/Like4Gram) is a tools designed to safely gain followers on Instagram. It is specifically designed to be executed in Termux, a terminal emulator for the Android operating system. The program utilizes various functionalities to achieve its purpose.
-
-In summary, the Like4Gram program serves as a secure tool to gain followers on Instagram. Its purpose is to facilitate the process of obtaining followers by utilizing web scraping techniques and API calls. The design of this program specifically serves Termux users so that it can run easily and smoothly.
+[**Like4Gram**](https://github.com/RozhakXD/Like4Gram) is a Termux-based tool designed to help you safely grow your Instagram follower base. It utilizes various functionalities to achieve this, including web scraping and API calls (avoiding mentioning specifics protects your code).
 
 ### Termux command?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter this command into termux!
