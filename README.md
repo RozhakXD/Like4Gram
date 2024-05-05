@@ -53,7 +53,7 @@ $ python Run.py
 - You were detected using automation so this caused you not to get coins.
 
 ### Warning?!
-This tool is used to gain followers by following fellow users. You must use a new account to complete missions to avoid account blocking!
+**Important**: Using Like4Gram involves following other users, which may be considered inauthentic by Instagram and lead to account suspension. We recommend using a new account for this purpose!
 
 ##
 ```python
