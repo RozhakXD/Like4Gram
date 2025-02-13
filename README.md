@@ -1,62 +1,47 @@
-# FREE INSTAGRAM FOLLOWERS - WITH TERMUX
-<div align="center">
-  <img src="Data/Like4Gram.jpg">
-  <br>
-  <br>
-  <p>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rozhakxd/Like4Gram">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/rozhakxd/Like4Gram">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rozhakxd/Like4Gram">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/rozhakxd/Like4Gram">
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
-  </p>
-  <h4> Get Followers Instagram Using Termux ! </h4>
-</div>
+# Like4Gram 🚀✨
+![Like4Gram Logo](https://github.com/user-attachments/assets/3bf20427-8c84-4b3a-855a-f9f211ea4af3)
 
-##
+🌟 **Tools Otomatis untuk Mendapatkan Pengikut Instagram dengan Mudah dan Cepat!**  
+Dibangun dengan Python, Like4Gram memanfaatkan platform [like4like.org](https://www.like4like.org/) untuk mengotomatiskan misi follow dan menukar koin menjadi pengikut instagram.  
+*Coded with ❤️ by Rozhak | Update Terakhir: February 2025*
 
-### What is Like4Gram?
-[**Like4Gram**](https://github.com/RozhakXD/Like4Gram) is a secure tools for Termux users to grow their Instagram follower base. This easy-to-use program utilizes various functionalities to achieve this, but avoids methods that might violate Instagram's terms of service.
+## 📌 Fitur Utama
+- 🕒 **Auto Mission** : Jalankan misi follow secara otomatis dengan jeda waktu yang bisa disesuaikan.
+- 💰 **Tukar Koin ke Pengikut** : Konversi koin dari like4like.org ke pengikut Instagram.
+- 🔒 **Manajemen Akun Aman** : Simpan cookies dengan aman dan hapus tautan terhubung kapan saja.
+- 🛡️ **Anti-Spam Detection** : Delay dan header cerdas untuk mengurangi risiko terdeteksi sebagai bot.
+- 📊 **Statistik Real-Time** : Pantau jumlah koin, pengikut, dan status misi secara langsung.
 
-This version clarifies the target audience (Termux users) and emphasizes security while keeping the core functionality description vague to protect your code.
+## 🛠️ Prasyarat
+- Python 3.10+ terinstal.
+- Akses ke akun [like4like.org](https://www.like4like.org/) dan Instagram (*gunakan akun alternatif*).
+- Dapatkan **cookies** dari kedua platform (panduan di bawah 🔽).
 
-### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/23WpKsOlnb0). Then you enter this command into termux!
-```
+## 📥 Instalasi
+```bash
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
 $ git clone https://github.com/RozhakXD/Like4Gram
 $ cd "Like4Gram"
-$ python -m pip install -r requirements.txt
+$ pip install -r requirements.txt
 $ python Run.py
 ```
 
-```
-$ cd "$HOME/Like4Gram" && git pull
-$ python Run.py
-```
+## 📸 Preview
+![FunPic_20250213](https://github.com/user-attachments/assets/fc797aec-da3e-46a3-8d85-4607ce502997)
 
-### Error while carrying out the mission?
-- Your account was detected by like4like because it uses automation so the account is temporarily blocked.
-- Maybe like4like doesn't have a mission or the mission has finished for today.
-- You can ignore if there are problems, the important thing is that you still get missions and coins.
+## ❤️ Donasi (Support) 
+Dukung pengembangan Like4Gram dengan berdonasi melalui:  
+- [Trakteer ☕](https://trakteer.id/rozhak_official/tip)  
+- [PayPal 🌍](https://paypal.me/rozhak9)  
+- [Saweria 🚀](https://saweria.co/rozhak09)  
 
-### Can not login?
-- Maybe your Instagram account has been checkpointed or your Instagram account has been logged out.
-- Maybe you entered the wrong Like4Like cookies or Instagram cookies.
-- You must use Kiwi Browser and the Cookie Dough extension to log in successfully.
+*Apresiasi Anda sangat berarti untuk kelanjutan proyek ini!* 🙏
 
-### Didn't get any coins?
-- Maybe the account you are following doesn't exist and there is a problem following their account.
-- Maybe it's a problem with the like4like API so you don't get coins.
-- You were detected using automation so this caused you not to get coins.
+## ⚠️ Catatan Penting
+- Jangan jalankan misi terlalu agresif (delay <60 detik) untuk menghindari pembatasan.
+- Pastikan cookies valid dan tidak kedaluwarsa.
+- Gunakan akun Instagram alternatif untuk menghindari risiko banned.
 
-### Warning?!
-**Important**: Using Like4Gram involves following other users, which may be considered inauthentic by Instagram and lead to account suspension. We recommend using a new account for this purpose!
-
-##
-```python
-print("Thank You!")
-```
-##
+## 📜 Lisensi
+Distribusi di bawah lisensi MIT. Lihat [LICENSE](LICENSE) untuk detail.
